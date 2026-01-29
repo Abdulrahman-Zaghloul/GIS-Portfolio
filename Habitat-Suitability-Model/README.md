@@ -43,4 +43,4 @@ Demonstrated how GIS-based spatial modeling supports conservation planning and h
 
 ## Outputs
 
-![Habitat Suitability Map](Layout.pdf)
+![Habitat Suitability Map](Map.png)
