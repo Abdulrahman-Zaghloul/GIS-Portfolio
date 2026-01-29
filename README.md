@@ -14,7 +14,7 @@ Spatial evaluation of land suitability and relocation feasibility for a flood-di
 🌲 Habitat Suitability Modeling – Navarro River Watershed
 
 Multi-criteria environmental modeling to identify optimal nesting zones using terrain and land cover variables.
-➡ [View Project Details](./Flood-Relocation-Analysis)
+➡ [View Project Details](./Habitat-Suitability-Model)
 
 
 🔥 Wildfire Impact & Land Exposure Analysis
