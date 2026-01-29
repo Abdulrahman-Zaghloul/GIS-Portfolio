@@ -1,13 +1,18 @@
 # Flood Relocation & Terrain Suitability Analysis – Valmeyer, IL
+
+## Problem Statement
+
+Severe flooding led to the physical relocation of the town of Valmeyer, IL. This analysis evaluates terrain suitability and spatial accessibility to understand how GIS can support land-use planning and infrastructure decisions in post-disaster relocation scenarios.
+
 ## Project Objective
 
 Evaluate terrain suitability and relocation feasibility for a flood-impacted community using spatial analysis and raster modeling.
 
 ## Data Sources
 
-USGS Digital Elevation Model (DEM)
+USGS 10m Digital Elevation Model (DEM)
 
-Parcel boundary datasets
+Municipal parcel boundary datasets
 
 Road network shapefiles
 
@@ -17,7 +22,7 @@ Historical flood zone data
 
 ArcGIS Pro • Spatial Analyst • Zonal Statistics • Raster Distance • ArcGIS Online
 
-## Methodology
+## Spatial Analysis Workflow
 
 Derived slope and elevation rasters from DEM
 
@@ -31,12 +36,13 @@ Developed comparative maps of original vs relocated parcels
 
 ## Key Findings
 
-Identified terrain-constrained areas unsuitable for redevelopment
+Identified steep-slope and elevation-constrained areas unsuitable for redevelopment
 
-Highlighted zones with favorable slope and accessibility
+Highlighted zones with favorable terrain and transportation access for future land use
 
-Demonstrated GIS’s role in supporting post-disaster planning decisions
+Demonstrated how GIS-based terrain analysis supports evidence-based relocation and planning decisions
 
 ## Outputs
-
+🟢 NEW Valmeyer
+🔴 OLD Valmeyer
 ![Flood Map](Map.png)
