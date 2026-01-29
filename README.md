@@ -20,4 +20,4 @@ Multi-criteria environmental modeling to identify optimal nesting zones using te
 🔥 Wildfire Impact & Land Exposure Analysis
 
 Quantification of wildfire-affected land areas using spatial overlays and county-level risk assessment.
-➡ [View Project Details](./Flood-Relocation-Analysis)
+➡ [View Project Details](./Wildfire-Impact-Analysis)
