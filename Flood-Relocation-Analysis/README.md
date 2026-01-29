@@ -39,4 +39,4 @@ Demonstrated GIS’s role in supporting post-disaster planning decisions
 
 Outputs
 
-(Upload your map images here next step)
+![Flood Map](map.png)
